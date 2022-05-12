@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Список покупок</string>
+    <string name="name">Название товара:</string>
+    <string name="count">Количество товаров:</string>
+    <string name="button">Сохранить</string>
+    <string name="error_input_count">Неправильное количество</string>
+    <string name="error_input_name">Неправильное название</string>
+</resources>
